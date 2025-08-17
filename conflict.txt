@@ -1,3 +1,4 @@
 String1
 String2 from feature/1
-String3
+String3 from feature 2
+String4
