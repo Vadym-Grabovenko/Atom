@@ -1,3 +1,3 @@
 String1
-String2
+String2 from feature 2
 String3
